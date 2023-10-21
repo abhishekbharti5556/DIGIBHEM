@@ -42,6 +42,4 @@ To install the required libraries, run the following command:
 - Abhishek Bharti
 - abhishekbharti5556@gmail.com
 
-## License
 
-This project is licensed under the MIT License.
